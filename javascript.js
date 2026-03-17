@@ -1,3 +1,4 @@
 const m = 'mercado-pago'
 const d = 'devedor'
- console.log (m, d)
+const p = 'pagemento'
+console.log(m, d, p)
